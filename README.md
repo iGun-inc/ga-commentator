@@ -1,0 +1,1 @@
+A GitHub App that adds a comment to greet the author when a pull request is opened.
