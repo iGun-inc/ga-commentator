@@ -1,0 +1,20 @@
+{
+  "name": "ga-commentator",
+  "version": "1.0.0",
+  "description": "A GitHub App that adds a comment to greet the author when a pull request is opened.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "server": "node app.js"
+  },
+  "keywords": [],
+  "author": "Khalida Aliyeva",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "octokit": "^4.0.2"
+  },
+  "devDependencies": {
+    "smee-client": "^2.0.3"
+  }
+}
